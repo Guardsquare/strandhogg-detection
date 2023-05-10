@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="protection_notification_channel_title">StrandHogg Protection</string>
+    <string name="protection_notification_channel_description">Notifications related to StrandHogg protection</string>
+    <string name="foreground_detection_notification_title">Foreground Detection</string>
+    <string name="foreground_detection_notification_message">Checking for StrandHogg in the foreground</string>
+</resources>
