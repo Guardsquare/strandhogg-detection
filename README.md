@@ -3,9 +3,10 @@
 A set of techniques to protect against StrandHogg on Android
 
 > [!IMPORTANT]  
-> Be aware that StrandHogg is old and these techniques demonstrated in this sample application
-> are not necessary in most cases: see the flow chart to see if you need to take action in the
->  [accompanying blog post](https://www.guardsquare.com/blog/protecting-against-strandhogg).
+> Be aware that StrandHogg is old and the techniques demonstrated in this sample application
+> are not necessary in many cases: see the flow chart in the
+> [accompanying blog post](https://www.guardsquare.com/blog/protecting-against-strandhogg) 
+> to see if you need to take action.
 
 ## What is StrandHogg?
 
